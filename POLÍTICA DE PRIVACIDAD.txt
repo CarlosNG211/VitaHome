@@ -1,0 +1,157 @@
+POLÍTICA DE PRIVACIDAD
+1. Identidad del responsable
+
+La presente Política de Privacidad regula el tratamiento de datos personales por parte de la aplicación (en adelante, “la App”), propiedad de [Nombre de tu empresa o app], con domicilio en México.
+
+Nos comprometemos a proteger la privacidad de los usuarios conforme a lo establecido en la:
+
+Ley Federal de Protección de Datos Personales en Posesión de los Particulares (LFPDPPP)
+Lineamientos del INAI
+Políticas de Google Play Developer Program
+2. Naturaleza del servicio
+
+La App ofrece servicios de:
+
+Orientación y asesoramiento médico remoto
+Consultas virtuales con médicos titulados
+Recomendaciones de tratamiento
+Venta y envío de medicamentos
+
+⚠️ Importante:
+Los servicios de la App son proporcionados por profesionales de la salud debidamente titulados, sin embargo:
+
+La consulta es virtual, por lo que puede tener limitaciones
+Los resultados dependen de la veracidad y precisión de la información proporcionada por el usuario
+La App no sustituye atención médica presencial en casos de emergencia
+3. Datos personales que recopilamos
+
+Podemos recopilar los siguientes datos:
+
+3.1 Datos de identificación
+Nombre completo
+Edad
+Sexo
+Dirección
+Teléfono
+Correo electrónico
+3.2 Datos sensibles (salud)
+Historial médico
+Síntomas
+Enfermedades
+Tratamientos previos
+Medicación actual
+
+⚠️ Estos datos son considerados datos personales sensibles según la ley mexicana.
+
+3.3 Datos técnicos
+Dirección IP
+Tipo de dispositivo
+Sistema operativo
+Información de uso de la App
+4. Finalidad del uso de datos
+
+Tus datos serán utilizados para:
+
+Brindar asesoramiento médico adecuado
+Realizar consultas virtuales
+Emitir diagnósticos orientativos
+Determinar tratamientos
+Generar recetas médicas cuando aplique
+Procesar pedidos de medicamentos
+Enviar medicamentos a domicilio
+Mejorar la experiencia del usuario
+Cumplir obligaciones legales
+5. Sobre la veracidad de la información
+
+El usuario es responsable de proporcionar información:
+
+Veraz
+Completa
+Actualizada
+
+⚠️ En caso de proporcionar información incorrecta o incompleta:
+
+El diagnóstico puede ser inexacto
+El tratamiento puede no ser adecuado
+La App no se hace responsable por resultados derivados de datos erróneos
+6. Uso de medicamentos
+
+La App maneja medicamentos bajo dos categorías:
+
+6.1 Medicamentos sin receta
+Se venden y envían directamente al domicilio
+Cumplen con la normativa sanitaria vigente
+6.2 Medicamentos con receta
+Solo se proporcionan tras evaluación médica
+Requieren consulta con médico titulado
+Se emite receta cuando es necesario
+7. Compartición de datos
+
+Podemos compartir tus datos con:
+
+Médicos certificados dentro de la plataforma
+Servicios de paquetería (para entrega de medicamentos)
+Plataformas de pago
+Autoridades cuando sea requerido por ley
+
+Nunca vendemos tus datos personales.
+
+8. Almacenamiento y seguridad
+
+Tus datos son protegidos mediante:
+
+Cifrado de información
+Acceso restringido
+Protocolos de seguridad digitales
+
+Sin embargo, ningún sistema es 100% seguro, por lo que no se puede garantizar seguridad absoluta.
+
+9. Derechos ARCO
+
+Tienes derecho a:
+
+Acceder a tus datos
+Rectificarlos
+Cancelarlos
+Oponerte a su uso
+
+Puedes solicitarlo enviando un correo a:
+[tu correo aquí]
+
+10. Retención de datos
+
+Los datos serán almacenados solo el tiempo necesario para:
+
+Cumplir con el servicio
+Obligaciones legales
+Fines médicos y administrativos
+11. Uso por menores de edad
+La App no está dirigida a menores de 13 años
+Si un menor utiliza la App, debe ser bajo supervisión de un adulto
+No recopilamos intencionalmente datos de menores sin consentimiento
+12. Consentimiento
+
+Al usar la App, el usuario acepta:
+
+Esta Política de Privacidad
+El tratamiento de datos sensibles
+El uso de información para fines médicos
+13. Limitación de responsabilidad
+
+La App:
+
+No garantiza diagnósticos perfectos
+No sustituye atención médica presencial
+No se hace responsable por decisiones tomadas únicamente con base en la App
+14. Cambios en la política
+
+Nos reservamos el derecho de modificar esta política en cualquier momento.
+
+Los cambios serán notificados dentro de la App o en la página oficial.
+
+15. Contacto
+
+Para dudas o solicitudes:
+
+📧 Correo: camlosnochemala@hotmail.com
+ Teléfono: 7752361570
